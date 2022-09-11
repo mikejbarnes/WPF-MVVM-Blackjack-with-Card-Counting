@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Mike\Desktop\Programming\Git Repositories\WPF-MVVM-Blackjack-with-Card-Counting\obj\Debug\
+C:\Users\Mike\Desktop\Programming\Git Repositories\WPF-MVVM-Blackjack-with-Card-Counting\obj\Release\
 WPF_MVVM_BlackJackWIthCardCounting
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Mike\Desktop\Programming\Git Repositories\WPF-MVVM-Blackjack-with-Card-Counting\App.xaml
 11151548125
 

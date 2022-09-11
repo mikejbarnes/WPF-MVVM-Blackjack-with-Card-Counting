@@ -128,7 +128,6 @@ namespace WPF_MVVM_BlackJackWIthCardCounting.Models
         private void EvaluateHands()
         {
             CountCards();
-            Console.WriteLine(_shoe.GetDecksRemaining());
 
             int playerSum = CalculateHandSum(_playerHand);
             int dealerSum = CalculateHandSum(_dealerHand);
@@ -255,7 +254,6 @@ namespace WPF_MVVM_BlackJackWIthCardCounting.Models
 
                 if (_gamePhase == 2 || (_gamePhase == 1 && i == 0))
                 {
-                    Console.WriteLine(faceValue);
                     if (faceValue < 7) roundCount++;
                     else if (faceValue > 9) roundCount--;
                 }
