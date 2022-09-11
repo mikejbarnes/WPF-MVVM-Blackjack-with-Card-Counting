@@ -1,0 +1,15 @@
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\bin\Debug\WPF_MVVM_BlackJackWIthCardCounting.exe.config
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\bin\Debug\WPF_MVVM_BlackJackWIthCardCounting.exe
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\bin\Debug\WPF_MVVM_BlackJackWIthCardCounting.pdb
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\App.g.cs
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting_MarkupCompile.cache
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting_MarkupCompile.lref
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.g.resources
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.Properties.Resources.resources
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.exe
+C:\Users\Mike\Desktop\Programming\C#\WPF_MVVM_BlackJackWIthCardCounting\obj\Debug\WPF_MVVM_BlackJackWIthCardCounting.pdb
